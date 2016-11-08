@@ -1,8 +1,11 @@
-My Settings
+VFS Settings
 ===========
 
 ###Setup
  * [drduh/macOS-Security-and-Privacy-Guide/](https://github.com/drduh/macOS-Security-and-Privacy-Guide/)
+
+$HOME/Pictures/Screenshots 
+
 
 
 ###Dotfiles
@@ -16,10 +19,22 @@ config config --local status.showUntrackedFiles no
 ```
 
 
+
+
 ###Apps
 * 1Password
+* Dropbox
+* Deluge
+* Spotify
+* Clearview
 * MPV
 * MacDown
+* Marp
+* iTerm
+* GPGTools
+* Wireshark
+* hammerspoon
+* Karabiner / Seil
 * Yubiswitch
 * little Snitch
 
