@@ -176,3 +176,4 @@ alias cppcompile='c++ -std=c++11 -stdlib=libc++'
 
 #
 alias csi='csi -quiet'
+alias config='/usr/local/bin/git --git-dir=$HOME/.cfg/ --work-tree=$HOME'
