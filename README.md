@@ -4,7 +4,12 @@ VFS Settings
 ###Setup
  * [drduh/macOS-Security-and-Privacy-Guide/](https://github.com/drduh/macOS-Security-and-Privacy-Guide/)
 
-$HOME/Pictures/Screenshots 
+
+```
+defaults write com.apple.screencapture location $HOME/Pictures/Screenshots
+
+killall SystemUIServer
+```
 
 
 
@@ -37,6 +42,7 @@ config config --local status.showUntrackedFiles no
 * Karabiner / Seil
 * Yubiswitch
 * little Snitch
+* veertu
 
 ###Cli
 * youtube-dl
